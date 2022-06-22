@@ -20,7 +20,12 @@ h2 {
     font-size: 42px;
 }
 
-p {
+.cont {
+    display: flex;
+    flex-direction: column;
+}
+
+.gray {
     color: gray;
     font-size: 21px;
 }
