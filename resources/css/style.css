@@ -20,11 +20,6 @@ h2 {
     font-size: 42px;
 }
 
-.cont {
-    display: flex;
-    flex-direction: column;
-}
-
 .gray {
     color: gray;
     font-size: 21px;
